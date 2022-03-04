@@ -1,0 +1,63 @@
+.RA-13-rw-tp {
+    margin: -35px 15px 0px 5px;
+   }
+   
+   .RA-13-heading-data-table {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: -8px;
+   }
+   
+   .RA-13-bread-crumb{
+    color: #03a9f4 !important;
+    margin-top: -10px;
+    font-size: 10px;
+   }
+   
+   .RA-13-datatable-p{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 12px;
+   }
+   .p-datatable .p-datatable-tbody > tr > td {
+    text-align: left;
+    border: 1px solid #e9ecef;
+    border-width: 0 0 1px 0;
+    padding: 1rem 1rem;
+    outline-color: #a6d5fa;
+    font-size: 12px;
+   }
+   
+   .RA-13-plus-icon{
+    font-size: 25px;
+    cursor: pointer;
+    color: #484848;
+   }
+   
+   .RA-13-anchor-style{
+    font-size: 14px;
+    margin-right: 8px;
+    border-right: 1px solid #e4e4e4;
+    padding-right: 10px;
+    color: #484848;
+    cursor: pointer;
+   }
+   
+   .RA-13-icon-style{
+    font-size: 14px;
+    padding-left: 5px;
+    color: #484848;
+    cursor: pointer;
+   }
+   
+   .RA-13-search-input{
+    position: absolute;
+    top: 16px;
+    left: 170px;
+   }
+   
+   .RA-13-image-tb{
+    width: 45px!important;
+    border-radius: 50%;
+    margin: 6px;
+   }

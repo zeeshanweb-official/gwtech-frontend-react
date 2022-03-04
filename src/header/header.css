@@ -1,0 +1,19 @@
+.bg-dark {
+ background-color: #ffffff!important;
+}
+.RA-13-signout-btn{
+ position: relative;
+ top: -10px;
+ color: #000000;
+ font-size: 16px;
+ font-weight: 500;
+ font-family: 'Noto Sans JP', sans-serif;
+}
+.RA-13-span-sub-admin{
+    font-size: 13px;
+    color: #000;
+    position: absolute;
+    top: 22px;
+    margin-left: 7px;
+    font-family: ui-monospace;
+}
